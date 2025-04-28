@@ -1,0 +1,13 @@
+datasets==2.18.0
+nbformat==5.9.0
+typeguard==2.13.3
+torch==2.1.2
+tokenizers==0.19.1
+transformers==4.44.2
+numpy<2.0.0
+accelerate>=1.6.0
+
+google-api-python-client==2.156.0
+python-dotenv==1.0.1
+tqdm==4.66.5
+openai==1.65.5
