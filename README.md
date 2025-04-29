@@ -28,6 +28,18 @@ The main `config.yaml` file controls:
 
 ## Usage
 
+First install modules:
+
+```bash
+pip install -r requirements.txt
+```
+
+then to set up modal:
+
+```bash
+python3 -m modal setup
+```
+
 Run the complete pipeline:
 
 ```bash
@@ -108,6 +120,6 @@ https://github.com/zjunlp/EasyEdit
 }
 ``` 
 
-Method took from paper:
+Method took from the anthropic CAA paper:
 
 https://arxiv.org/pdf/2312.06681v2
